@@ -80,7 +80,7 @@
       </children>
     </children>
     <element xmi:type="henshin:Rule" href="AddSiblingFeaturesWithGroup.henshin#_bsPuoE7hEeSZwptAIs69ag"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bsSx8U7hEeSZwptAIs69ag" x="-32" y="47" width="556" height="501"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_bsSx8U7hEeSZwptAIs69ag" x="23" y="18" width="556" height="501"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_KlC1wE7kEeSZwptAIs69ag" type="2002" fontName="Segoe UI" italic="true" lineColor="0">
     <children xmi:type="notation:DecorationNode" xmi:id="_KlDc0E7kEeSZwptAIs69ag" type="5004"/>
@@ -108,11 +108,11 @@
           <element xmi:type="henshin:Rule" href="AddSiblingFeaturesWithGroup.henshin#_bsPuoE7hEeSZwptAIs69ag"/>
         </children>
         <element xmi:type="henshin:Rule" href="AddSiblingFeaturesWithGroup.henshin#_bsPuoE7hEeSZwptAIs69ag"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-4LwkU7kEeSZwptAIs69ag" x="86" y="24"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-4LwkU7kEeSZwptAIs69ag" x="22" y="72"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="AddSiblingFeaturesWithGroup.henshin#_KlAZgE7kEeSZwptAIs69ag"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KlC1wU7kEeSZwptAIs69ag" x="1098" y="225"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KlC1wU7kEeSZwptAIs69ag" x="23" y="534" height="152"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_bQjRIk7hEeSZwptAIs69ag"/>
   <element xmi:type="henshin:Module" href="AddSiblingFeaturesWithGroup.henshin#_bQjRIE7hEeSZwptAIs69ag"/>

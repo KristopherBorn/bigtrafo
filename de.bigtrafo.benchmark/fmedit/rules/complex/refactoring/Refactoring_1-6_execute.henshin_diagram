@@ -14,7 +14,7 @@
           <styles xmi:type="notation:FilteringStyle" xmi:id="_pgSHxu5hEeOqHu8pdyB_Ag"/>
         </children>
         <element xmi:type="henshin:Node" href="Refactoring_1-6_execute.henshin#_pgRgsO5hEeOqHu8pdyB_Ag"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pgSHwe5hEeOqHu8pdyB_Ag" x="331" y="42"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pgSHwe5hEeOqHu8pdyB_Ag" x="297" y="9"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_qJxJoe5hEeOqHu8pdyB_Ag" type="3001" fontName="Segoe UI">
         <children xmi:type="notation:DecorationNode" xmi:id="_qJxwsO5hEeOqHu8pdyB_Ag" type="5002"/>
@@ -28,7 +28,7 @@
           <styles xmi:type="notation:FilteringStyle" xmi:id="_qJxwtO5hEeOqHu8pdyB_Ag"/>
         </children>
         <element xmi:type="henshin:Node" href="Refactoring_1-6_execute.henshin#_qJwikO5hEeOqHu8pdyB_Ag"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qJxJou5hEeOqHu8pdyB_Ag" x="241" y="128"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_qJxJou5hEeOqHu8pdyB_Ag" x="207" y="95"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_redrsO5hEeOqHu8pdyB_Ag" type="3001" fontName="Segoe UI">
         <children xmi:type="notation:DecorationNode" xmi:id="_redrsu5hEeOqHu8pdyB_Ag" type="5002"/>
@@ -42,7 +42,7 @@
           <styles xmi:type="notation:FilteringStyle" xmi:id="_redrtu5hEeOqHu8pdyB_Ag"/>
         </children>
         <element xmi:type="henshin:Node" href="Refactoring_1-6_execute.henshin#_redEoO5hEeOqHu8pdyB_Ag"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_redrse5hEeOqHu8pdyB_Ag" x="252" y="279"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_redrse5hEeOqHu8pdyB_Ag" x="218" y="246"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_8yHEYEM9EeSDNLoe64oyLw" type="3001" fontName="Sans">
         <children xmi:type="notation:DecorationNode" xmi:id="_8yHEYkM9EeSDNLoe64oyLw" type="5002"/>
@@ -52,11 +52,11 @@
           <styles xmi:type="notation:FilteringStyle" xmi:id="_8yHEZkM9EeSDNLoe64oyLw"/>
         </children>
         <element xmi:type="henshin:Node" href="Refactoring_1-6_execute.henshin#_8yEBEEM9EeSDNLoe64oyLw"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8yHEYUM9EeSDNLoe64oyLw" x="49" y="186"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_8yHEYUM9EeSDNLoe64oyLw" x="15" y="153"/>
       </children>
     </children>
     <element xmi:type="henshin:Rule" href="Refactoring_1-6_execute.henshin#_n4gRoO5hEeOqHu8pdyB_Ag"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n4iG0e5hEeOqHu8pdyB_Ag" x="18" y="52" width="841" height="482"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_n4iG0e5hEeOqHu8pdyB_Ag" x="18" y="52" width="522" height="358"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_d6BZ0O5iEeOqHu8pdyB_Ag" type="2002" fontName="Segoe UI" italic="true" lineColor="0">
     <children xmi:type="notation:DecorationNode" xmi:id="_d6CA4e5iEeOqHu8pdyB_Ag" type="5004"/>
@@ -77,16 +77,16 @@
         <styles xmi:type="notation:DescriptionStyle" xmi:id="_d6Cn8e5iEeOqHu8pdyB_Ag"/>
         <styles xmi:type="notation:FontStyle" xmi:id="_d6Cn8u5iEeOqHu8pdyB_Ag" fontName="Segoe UI"/>
         <element xmi:type="henshin:PriorityUnit" href="Refactoring_1-6_execute.henshin#_d5_koO5iEeOqHu8pdyB_Ag"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_d6Cn9u5iEeOqHu8pdyB_Ag" x="205" y="15"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_d6Cn9u5iEeOqHu8pdyB_Ag" x="343" y="15"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_kZ5nUO5iEeOqHu8pdyB_Ag" type="3003" fontName="Segoe UI" italic="true" lineColor="0">
         <children xmi:type="notation:DecorationNode" xmi:id="_kZ5nUu5iEeOqHu8pdyB_Ag" type="5005"/>
         <element xmi:type="henshin:Rule" href="Refactoring_1-6_execute.henshin#_n4gRoO5hEeOqHu8pdyB_Ag"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kZ5nUe5iEeOqHu8pdyB_Ag" x="15" y="61"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_kZ5nUe5iEeOqHu8pdyB_Ag" x="63" y="15"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="Refactoring_1-6_execute.henshin#_d5_koO5iEeOqHu8pdyB_Ag"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d6CA4O5iEeOqHu8pdyB_Ag" x="1005" y="150"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d6CA4O5iEeOqHu8pdyB_Ag" x="18" y="429" height="94"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_nVm_8u5hEeOqHu8pdyB_Ag"/>
   <element xmi:type="henshin:Module" href="Refactoring_1-6_execute.henshin#_nVm_8O5hEeOqHu8pdyB_Ag"/>

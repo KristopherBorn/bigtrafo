@@ -78,7 +78,7 @@
       </children>
     </children>
     <element xmi:type="henshin:Rule" href="Refactoring_1-5_execute.henshin#_l5a2IO5eEeOqHu8pdyB_Ag"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZafsAEM8EeSDNLoe64oyLw" x="7" width="1206" height="842"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ZafsAEM8EeSDNLoe64oyLw" x="7" width="1062" height="842"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_ZafsA0M8EeSDNLoe64oyLw" type="2002" fontName="Sans" italic="true" lineColor="0">
     <children xmi:type="notation:DecorationNode" xmi:id="_ZafsBUM8EeSDNLoe64oyLw" type="5004"/>

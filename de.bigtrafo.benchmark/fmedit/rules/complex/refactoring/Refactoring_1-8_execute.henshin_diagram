@@ -107,16 +107,16 @@
         <styles xmi:type="notation:DescriptionStyle" xmi:id="_LBNvBPILEeOMO-B7rsNJ1g"/>
         <styles xmi:type="notation:FontStyle" xmi:id="_LBNvBfILEeOMO-B7rsNJ1g" fontName="Cantarell"/>
         <element xmi:type="henshin:PriorityUnit" href="Refactoring_1-8_execute.henshin#_LBDW8PILEeOMO-B7rsNJ1g"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_LBOWEvILEeOMO-B7rsNJ1g" x="205" y="15"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_LBOWEvILEeOMO-B7rsNJ1g" x="522" y="15"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_VP8z4PILEeOMO-B7rsNJ1g" type="3003" fontName="Cantarell" italic="true" lineColor="0">
         <children xmi:type="notation:DecorationNode" xmi:id="_VP8z4vILEeOMO-B7rsNJ1g" type="5005"/>
         <element xmi:type="henshin:Rule" href="Refactoring_1-8_execute.henshin#_HlfEcPIKEeOMO-B7rsNJ1g"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VP8z4fILEeOMO-B7rsNJ1g"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VP8z4fILEeOMO-B7rsNJ1g" x="142" y="11"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="Refactoring_1-8_execute.henshin#_LBDW8PILEeOMO-B7rsNJ1g"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LBFzMfILEeOMO-B7rsNJ1g" x="254" y="559"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LBFzMfILEeOMO-B7rsNJ1g" x="-27" y="545" height="88"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_F1GE4fIKEeOMO-B7rsNJ1g"/>
   <element xmi:type="henshin:Module" href="Refactoring_1-8_execute.henshin#_FzzrcPIKEeOMO-B7rsNJ1g"/>

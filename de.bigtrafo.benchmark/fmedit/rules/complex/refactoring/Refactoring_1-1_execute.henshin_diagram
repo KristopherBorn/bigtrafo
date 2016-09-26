@@ -99,16 +99,16 @@
         <styles xmi:type="notation:DescriptionStyle" xmi:id="_BEvDE0MxEeSDNLoe64oyLw"/>
         <styles xmi:type="notation:FontStyle" xmi:id="_BEvDFEMxEeSDNLoe64oyLw" fontName="Sans"/>
         <element xmi:type="henshin:PriorityUnit" href="Refactoring_1-1_execute.henshin#_Oo8_IO5EEeOqHu8pdyB_Ag"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_BEvDGEMxEeSDNLoe64oyLw" x="205" y="15"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_BEvDGEMxEeSDNLoe64oyLw" x="505" y="15"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_BGMboEMxEeSDNLoe64oyLw" type="3003" fontName="Sans" italic="true" lineColor="0">
         <children xmi:type="notation:DecorationNode" xmi:id="_BGNCsEMxEeSDNLoe64oyLw" type="5005"/>
         <element xmi:type="henshin:Rule" href="Refactoring_1-1_execute.henshin#_N4-JIO5DEeOqHu8pdyB_Ag"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BGMboUMxEeSDNLoe64oyLw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BGMboUMxEeSDNLoe64oyLw" x="67" y="11"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="Refactoring_1-1_execute.henshin#_Oo8_IO5EEeOqHu8pdyB_Ag"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BEtN4UMxEeSDNLoe64oyLw" x="968"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_BEtN4UMxEeSDNLoe64oyLw" y="534" height="92"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_BARZ0UMxEeSDNLoe64oyLw"/>
   <element xmi:type="henshin:Module" href="Refactoring_1-1_execute.henshin#_NFQNMO5DEeOqHu8pdyB_Ag"/>

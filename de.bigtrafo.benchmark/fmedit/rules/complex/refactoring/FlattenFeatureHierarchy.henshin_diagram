@@ -100,11 +100,11 @@
           <element xmi:type="henshin:Rule" href="FlattenFeatureHierarchy.henshin#_WEAtEE7cEeSZwptAIs69ag"/>
         </children>
         <element xmi:type="henshin:Rule" href="FlattenFeatureHierarchy.henshin#_WEAtEE7cEeSZwptAIs69ag"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gVDCkU7dEeSZwptAIs69ag" x="126" y="24"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gVDCkU7dEeSZwptAIs69ag" x="15" y="62"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="FlattenFeatureHierarchy.henshin#_d9LMQE7dEeSZwptAIs69ag"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d9OPkU7dEeSZwptAIs69ag" x="720" y="17"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d9OPkU7dEeSZwptAIs69ag" x="15" y="403" height="134"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_QoEBwU7cEeSZwptAIs69ag"/>
   <element xmi:type="henshin:Module" href="FlattenFeatureHierarchy.henshin#_QnFKUE7cEeSZwptAIs69ag"/>

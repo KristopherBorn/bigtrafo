@@ -82,7 +82,7 @@
       </children>
     </children>
     <element xmi:type="henshin:Rule" href="Specialization_3-6_execute.henshin#_VW1t8PSbEeONpPqqe8SQsQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4DMAIU8PEeSmSddgNImy3w" width="1025" height="764"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4DMAIU8PEeSmSddgNImy3w" width="806" height="494"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_4DMnME8PEeSmSddgNImy3w" type="2002" fontName="Sans" italic="true" lineColor="0">
     <children xmi:type="notation:DecorationNode" xmi:id="_4DMnMk8PEeSmSddgNImy3w" type="5004"/>
@@ -103,16 +103,16 @@
         <styles xmi:type="notation:DescriptionStyle" xmi:id="_4DMnPE8PEeSmSddgNImy3w"/>
         <styles xmi:type="notation:FontStyle" xmi:id="_4DMnPU8PEeSmSddgNImy3w" fontName="Sans"/>
         <element xmi:type="henshin:PriorityUnit" href="Specialization_3-6_execute.henshin#_sJG58PSdEeONpPqqe8SQsQ"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_4DNOQk8PEeSmSddgNImy3w" x="205" y="15"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4DNOQk8PEeSmSddgNImy3w" x="412" y="15"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_4ERlQE8PEeSmSddgNImy3w" type="3003" fontName="Sans" italic="true" lineColor="0">
         <children xmi:type="notation:DecorationNode" xmi:id="_4ERlQk8PEeSmSddgNImy3w" type="5005"/>
         <element xmi:type="henshin:Rule" href="Specialization_3-6_execute.henshin#_VW1t8PSbEeONpPqqe8SQsQ"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4ERlQU8PEeSmSddgNImy3w"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4ERlQU8PEeSmSddgNImy3w" x="111" y="11"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="Specialization_3-6_execute.henshin#_sJG58PSdEeONpPqqe8SQsQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4DMnMU8PEeSmSddgNImy3w" x="1356"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4DMnMU8PEeSmSddgNImy3w" y="515" height="96"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_3_40gU8PEeSmSddgNImy3w"/>
   <element xmi:type="henshin:Module" href="Specialization_3-6_execute.henshin#_5FgmUPSaEeONpPqqe8SQsQ"/>

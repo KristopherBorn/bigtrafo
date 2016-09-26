@@ -83,7 +83,7 @@
       </children>
     </children>
     <element xmi:type="henshin:Rule" href="CreateGroup_execute.henshin#_TvBA8SlTEeSfmulj5g7e3A"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dy9yMWWYEeS43OJibazXeA" height="445"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dy9yMWWYEeS43OJibazXeA" height="375"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_dy9yNGWYEeS43OJibazXeA" type="2002" fontName="Segoe UI" italic="true" lineColor="0">
     <children xmi:type="notation:DecorationNode" xmi:id="_dy9yNmWYEeS43OJibazXeA" type="5004"/>
@@ -109,11 +109,11 @@
       <children xmi:type="notation:Shape" xmi:id="_d4LpYGWYEeS43OJibazXeA" type="3003" fontName="Segoe UI" italic="true" lineColor="0">
         <children xmi:type="notation:DecorationNode" xmi:id="_d4LpYmWYEeS43OJibazXeA" type="5005"/>
         <element xmi:type="henshin:Rule" href="CreateGroup_execute.henshin#_TvBA8SlTEeSfmulj5g7e3A"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d4LpYWWYEeS43OJibazXeA"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_d4LpYWWYEeS43OJibazXeA" x="34" y="63"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="CreateGroup_execute.henshin#_TvBoHilTEeSfmulj5g7e3A"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dy9yNWWYEeS43OJibazXeA" x="1103"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_dy9yNWWYEeS43OJibazXeA" y="388" width="824" height="136"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_dffckWWYEeS43OJibazXeA"/>
   <element xmi:type="henshin:Module" href="CreateGroup_execute.henshin#_TvBA8ClTEeSfmulj5g7e3A"/>
@@ -182,6 +182,7 @@
     <styles xmi:type="notation:FontStyle" xmi:id="_d4B4YWWYEeS43OJibazXeA" fontName="Segoe UI"/>
     <element xmi:type="henshin:Edge" href="CreateGroup_execute.henshin#_TvBoGilTEeSfmulj5g7e3A"/>
     <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_d4B4YmWYEeS43OJibazXeA" points="[-54, -20, 245, 95]$[-225, -20, 74, 95]$[-225, -83, 74, 32]"/>
+    <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_0PKf0INREea5Vp1gCyoSDQ" id="(0.7908496732026143,0.9846153846153847)"/>
   </edges>
   <edges xmi:type="notation:Connector" xmi:id="_d4B4Z2WYEeS43OJibazXeA" type="4001" source="_d0mw92WYEeS43OJibazXeA" target="_d0mxE2WYEeS43OJibazXeA" routing="Rectilinear">
     <children xmi:type="notation:DecorationNode" xmi:id="_d4B4amWYEeS43OJibazXeA" type="6001">
@@ -196,10 +197,10 @@
   </edges>
   <edges xmi:type="notation:Connector" xmi:id="_d4B4bmWYEeS43OJibazXeA" type="4001" source="_d0mw_mWYEeS43OJibazXeA" target="_d0v64GWYEeS43OJibazXeA" routing="Rectilinear">
     <children xmi:type="notation:DecorationNode" xmi:id="_d4B4cWWYEeS43OJibazXeA" type="6001">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_d4B4cmWYEeS43OJibazXeA" x="7" y="-45"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_d4B4cmWYEeS43OJibazXeA" x="37" y="20"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_d4B4c2WYEeS43OJibazXeA" type="6002">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_d4B4dGWYEeS43OJibazXeA" x="-11" y="-41"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_d4B4dGWYEeS43OJibazXeA" x="23" y="34"/>
     </children>
     <styles xmi:type="notation:FontStyle" xmi:id="_d4B4b2WYEeS43OJibazXeA" fontName="Segoe UI"/>
     <element xmi:type="henshin:Edge" href="CreateGroup_execute.henshin#_TvBoDSlTEeSfmulj5g7e3A"/>

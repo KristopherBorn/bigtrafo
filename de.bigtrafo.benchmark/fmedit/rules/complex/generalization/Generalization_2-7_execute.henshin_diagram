@@ -14,7 +14,7 @@
           <styles xmi:type="notation:FilteringStyle" xmi:id="_PnmI1k8UEeSmSddgNImy3w"/>
         </children>
         <element xmi:type="henshin:Node" href="Generalization_2-7_execute.henshin#_4NXCAAaQEeSAJM3OfUI0JA"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PnmI0U8UEeSmSddgNImy3w" x="173" y="38"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PnmI0U8UEeSmSddgNImy3w" x="158" y="13"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_Pnmv508UEeSmSddgNImy3w" type="3001" fontName="Sans">
         <children xmi:type="notation:DecorationNode" xmi:id="_Pnmv6U8UEeSmSddgNImy3w" type="5002"/>
@@ -24,7 +24,7 @@
           <styles xmi:type="notation:FilteringStyle" xmi:id="_PnnW8k8UEeSmSddgNImy3w"/>
         </children>
         <element xmi:type="henshin:Node" href="Generalization_2-7_execute.henshin#_7T4HAAaQEeSAJM3OfUI0JA"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pnmv6E8UEeSmSddgNImy3w" x="130" y="143"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pnmv6E8UEeSmSddgNImy3w" x="130" y="121"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_RllqEE8VEeSmSddgNImy3w" type="3001" fontName="Sans">
         <children xmi:type="notation:DecorationNode" xmi:id="_RllqEk8VEeSmSddgNImy3w" type="5002"/>
@@ -34,11 +34,11 @@
           <styles xmi:type="notation:FilteringStyle" xmi:id="_RllqFk8VEeSmSddgNImy3w"/>
         </children>
         <element xmi:type="henshin:Node" href="Generalization_2-7_execute.henshin#_RlhYoE8VEeSmSddgNImy3w"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RllqEU8VEeSmSddgNImy3w" x="130" y="278"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RllqEU8VEeSmSddgNImy3w" x="130" y="242"/>
       </children>
     </children>
     <element xmi:type="henshin:Rule" href="Generalization_2-7_execute.henshin#_urPLgAaQEeSAJM3OfUI0JA"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PnjFgU8UEeSmSddgNImy3w" x="3" y="-35" height="483"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PnjFgU8UEeSmSddgNImy3w" x="18" y="-18" height="334"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_PnjskE8UEeSmSddgNImy3w" type="2002" fontName="Sans" italic="true" lineColor="0">
     <children xmi:type="notation:DecorationNode" xmi:id="_Pnjskk8UEeSmSddgNImy3w" type="5004"/>
@@ -64,11 +64,11 @@
       <children xmi:type="notation:Shape" xmi:id="_Pn8uIE8UEeSmSddgNImy3w" type="3003" fontName="Sans" italic="true" lineColor="0">
         <children xmi:type="notation:DecorationNode" xmi:id="_Pn8uIk8UEeSmSddgNImy3w" type="5005"/>
         <element xmi:type="henshin:Rule" href="Generalization_2-7_execute.henshin#_urPLgAaQEeSAJM3OfUI0JA"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pn8uIU8UEeSmSddgNImy3w"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Pn8uIU8UEeSmSddgNImy3w" x="15" y="64"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="Generalization_2-7_execute.henshin#_u03zMAaREeSAJM3OfUI0JA"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PnjskU8UEeSmSddgNImy3w" x="887"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_PnjskU8UEeSmSddgNImy3w" x="435" y="-15"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_PjSQkU8UEeSmSddgNImy3w"/>
   <element xmi:type="henshin:Module" href="Generalization_2-7_execute.henshin#_uFokEAaQEeSAJM3OfUI0JA"/>
@@ -100,7 +100,7 @@
       <layoutConstraint xmi:type="notation:Location" xmi:id="_UJX1dE8VEeSmSddgNImy3w" x="21" y="26"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_UJX1dU8VEeSmSddgNImy3w" type="6002">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_UJYcgE8VEeSmSddgNImy3w" x="3" y="29"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_UJYcgE8VEeSmSddgNImy3w" x="-11" y="40"/>
     </children>
     <styles xmi:type="notation:FontStyle" xmi:id="_UJX1cU8VEeSmSddgNImy3w" fontName="Sans"/>
     <element xmi:type="henshin:Edge" href="Generalization_2-7_execute.henshin#_UJULEE8VEeSmSddgNImy3w"/>

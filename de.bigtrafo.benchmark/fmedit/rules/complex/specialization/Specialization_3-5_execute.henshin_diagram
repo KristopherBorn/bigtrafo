@@ -126,7 +126,7 @@
       </children>
     </children>
     <element xmi:type="henshin:Rule" href="Specialization_3-5_execute.henshin#_VW1t8PSbEeONpPqqe8SQsQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VW3jIfSbEeONpPqqe8SQsQ" x="-27" y="85" width="1208" height="775"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_VW3jIfSbEeONpPqqe8SQsQ" x="-7" y="22" width="1208" height="775"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_sJIvIPSdEeONpPqqe8SQsQ" type="2002" fontName="Segoe UI" italic="true" lineColor="0">
     <children xmi:type="notation:DecorationNode" xmi:id="_sJJWMPSdEeONpPqqe8SQsQ" type="5004"/>
@@ -147,18 +147,18 @@
         <styles xmi:type="notation:DescriptionStyle" xmi:id="_sJJWOvSdEeONpPqqe8SQsQ"/>
         <styles xmi:type="notation:FontStyle" xmi:id="_sJJWO_SdEeONpPqqe8SQsQ" fontName="Segoe UI"/>
         <element xmi:type="henshin:PriorityUnit" href="Specialization_3-5_execute.henshin#_sJG58PSdEeONpPqqe8SQsQ"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_sJJWP_SdEeONpPqqe8SQsQ" x="205" y="15"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_sJJWP_SdEeONpPqqe8SQsQ" x="782" y="15"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_vpyggPSfEeONpPqqe8SQsQ" type="3003" fontName="Segoe UI" italic="true" lineColor="0">
         <children xmi:type="notation:DecorationNode" xmi:id="_vpyggvSfEeONpPqqe8SQsQ" type="5005">
           <element xmi:type="henshin:Rule" href="Specialization_3-5_execute.henshin#_VW1t8PSbEeONpPqqe8SQsQ"/>
         </children>
         <element xmi:type="henshin:Rule" href="Specialization_3-5_execute.henshin#_VW1t8PSbEeONpPqqe8SQsQ"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vpyggfSfEeONpPqqe8SQsQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_vpyggfSfEeONpPqqe8SQsQ" x="134" y="11"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="Specialization_3-5_execute.henshin#_sJG58PSdEeONpPqqe8SQsQ"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sJIvIfSdEeONpPqqe8SQsQ" x="1275" y="45"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_sJIvIfSdEeONpPqqe8SQsQ" x="-6" y="814" width="989" height="85"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_5FgmUvSaEeONpPqqe8SQsQ"/>
   <element xmi:type="henshin:Module" href="Specialization_3-5_execute.henshin#_5FgmUPSaEeONpPqqe8SQsQ"/>

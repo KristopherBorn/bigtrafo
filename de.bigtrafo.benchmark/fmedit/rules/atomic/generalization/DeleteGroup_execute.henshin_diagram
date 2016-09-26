@@ -53,7 +53,7 @@
       </children>
     </children>
     <element xmi:type="henshin:Rule" href="DeleteGroup_execute.henshin#_Tu6TQSlTEeSfmulj5g7e3A"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Gh_f0ZJrEeSToOLhcgctbQ" height="318"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Gh_f0ZJrEeSToOLhcgctbQ" height="289"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_GiAG4pJrEeSToOLhcgctbQ" type="2002" fontName="Cantarell" italic="true" lineColor="0">
     <children xmi:type="notation:DecorationNode" xmi:id="_GiAG5JJrEeSToOLhcgctbQ" type="5004"/>
@@ -79,11 +79,11 @@
       <children xmi:type="notation:Shape" xmi:id="_GihrUJJrEeSToOLhcgctbQ" type="3003" fontName="Cantarell" italic="true" lineColor="0">
         <children xmi:type="notation:DecorationNode" xmi:id="_GihrUpJrEeSToOLhcgctbQ" type="5005"/>
         <element xmi:type="henshin:Rule" href="DeleteGroup_execute.henshin#_Tu6TQSlTEeSfmulj5g7e3A"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GihrUZJrEeSToOLhcgctbQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GihrUZJrEeSToOLhcgctbQ" x="15" y="73"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="DeleteGroup_execute.henshin#_Tu66XilTEeSfmulj5g7e3A"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GiAG45JrEeSToOLhcgctbQ" x="711"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_GiAG45JrEeSToOLhcgctbQ" y="312" height="158"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_GecckZJrEeSToOLhcgctbQ"/>
   <element xmi:type="henshin:Module" href="DeleteGroup_execute.henshin#_Tu6TQClTEeSfmulj5g7e3A"/>

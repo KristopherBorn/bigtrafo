@@ -113,7 +113,7 @@
         <styles xmi:type="notation:DescriptionStyle" xmi:id="_ukr98s7KEeS8FLJE3Tw5eg"/>
         <styles xmi:type="notation:FontStyle" xmi:id="_ukr9887KEeS8FLJE3Tw5eg" fontName="Segoe UI"/>
         <element xmi:type="henshin:PriorityUnit" href="PushDownGroup.henshin#_ukAogM7KEeS8FLJE3Tw5eg"/>
-        <layoutConstraint xmi:type="notation:Location" xmi:id="_ukslAM7KEeS8FLJE3Tw5eg" x="205" y="15"/>
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_ukslAM7KEeS8FLJE3Tw5eg" x="510" y="28"/>
       </children>
       <children xmi:type="notation:Shape" xmi:id="_E64qQM7TEeS8FLJE3Tw5eg" type="3003" fontName="Segoe UI" italic="true" lineColor="0">
         <children xmi:type="notation:DecorationNode" xmi:id="_E64qQs7TEeS8FLJE3Tw5eg" type="5005"/>
@@ -122,7 +122,7 @@
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="PushDownGroup.henshin#_ukAogM7KEeS8FLJE3Tw5eg"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ukDr0c7KEeS8FLJE3Tw5eg" x="935" y="186"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ukDr0c7KEeS8FLJE3Tw5eg" x="78" y="562" height="118"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_oG3l8M7KEeS8FLJE3Tw5eg"/>
   <element xmi:type="henshin:Module" href="PushDownGroup.henshin#_oEJpIM7KEeS8FLJE3Tw5eg"/>

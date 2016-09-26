@@ -71,11 +71,11 @@
       <children xmi:type="notation:Shape" xmi:id="_-H8u4JJuEeSZVumlqWqUMw" type="3003" fontName="Cantarell" italic="true" lineColor="0">
         <children xmi:type="notation:DecorationNode" xmi:id="_-H8u4pJuEeSZVumlqWqUMw" type="5005"/>
         <element xmi:type="henshin:Rule" href="DeleteExcludeConstraint_execute.henshin#_TvwAwSlTEeSfmulj5g7e3A"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-H8u4ZJuEeSZVumlqWqUMw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-H8u4ZJuEeSZVumlqWqUMw" x="21" y="76"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="DeleteExcludeConstraint_execute.henshin#_TvwA1ylTEeSfmulj5g7e3A"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-HgqAZJuEeSZVumlqWqUMw" x="837"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_-HgqAZJuEeSZVumlqWqUMw" y="307" height="148"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_-CvewZJuEeSZVumlqWqUMw"/>
   <element xmi:type="henshin:Module" href="DeleteExcludeConstraint_execute.henshin#_TvwAwClTEeSfmulj5g7e3A"/>

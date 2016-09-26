@@ -51,11 +51,11 @@
       <children xmi:type="notation:Shape" xmi:id="_Kby9kJJYEeSToOLhcgctbQ" type="3003" fontName="Cantarell" italic="true" lineColor="0">
         <children xmi:type="notation:DecorationNode" xmi:id="_Kby9kpJYEeSToOLhcgctbQ" type="5005"/>
         <element xmi:type="henshin:Rule" href="CreateConcreteFeature_execute.henshin#_Tvs9cSlTEeSfmulj5g7e3A"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kby9kZJYEeSToOLhcgctbQ"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Kby9kZJYEeSToOLhcgctbQ" x="8" y="57"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="CreateConcreteFeature_execute.henshin#_Tvs9gSlTEeSfmulj5g7e3A"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KbbxMZJYEeSToOLhcgctbQ" x="661"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_KbbxMZJYEeSToOLhcgctbQ" y="267" height="134"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_KYlRgZJYEeSToOLhcgctbQ"/>
   <element xmi:type="henshin:Module" href="CreateConcreteFeature_execute.henshin#_Tvs9cClTEeSfmulj5g7e3A"/>

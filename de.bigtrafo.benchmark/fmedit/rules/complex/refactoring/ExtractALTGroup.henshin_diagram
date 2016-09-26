@@ -58,11 +58,11 @@
           <styles xmi:type="notation:FilteringStyle" xmi:id="_ooEMNk7eEeSZwptAIs69ag"/>
         </children>
         <element xmi:type="henshin:Node" href="ExtractALTGroup.henshin#_ooCXAE7eEeSZwptAIs69ag"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ooEMMU7eEeSZwptAIs69ag" x="227" y="370"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_ooEMMU7eEeSZwptAIs69ag" x="227" y="322"/>
       </children>
     </children>
     <element xmi:type="henshin:Rule" href="ExtractALTGroup.henshin#_1lNNgE7dEeSZwptAIs69ag"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1lQ34U7dEeSZwptAIs69ag" y="13" width="525" height="466"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_1lQ34U7dEeSZwptAIs69ag" y="13" width="525" height="408"/>
   </children>
   <children xmi:type="notation:Shape" xmi:id="_CXJZgE7fEeSZwptAIs69ag" type="2002" fontName="Segoe UI" italic="true" lineColor="0">
     <children xmi:type="notation:DecorationNode" xmi:id="_CXJZgk7fEeSZwptAIs69ag" type="5004"/>
@@ -90,11 +90,11 @@
           <element xmi:type="henshin:Rule" href="ExtractALTGroup.henshin#_1lNNgE7dEeSZwptAIs69ag"/>
         </children>
         <element xmi:type="henshin:Rule" href="ExtractALTGroup.henshin#_1lNNgE7dEeSZwptAIs69ag"/>
-        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EyYs4U7fEeSZwptAIs69ag" x="130" y="15"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_EyYs4U7fEeSZwptAIs69ag" x="34" y="59"/>
       </children>
     </children>
     <element xmi:type="henshin:PriorityUnit" href="ExtractALTGroup.henshin#_CXGWME7fEeSZwptAIs69ag"/>
-    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CXJZgU7fEeSZwptAIs69ag" x="835" y="133"/>
+    <layoutConstraint xmi:type="notation:Bounds" xmi:id="_CXJZgU7fEeSZwptAIs69ag" y="438" height="133"/>
   </children>
   <styles xmi:type="notation:DiagramStyle" xmi:id="_1OMbsk7dEeSZwptAIs69ag"/>
   <element xmi:type="henshin:Module" href="ExtractALTGroup.henshin#_1OMbsE7dEeSZwptAIs69ag"/>
@@ -148,7 +148,7 @@
   </edges>
   <edges xmi:type="notation:Connector" xmi:id="_1AwnME7eEeSZwptAIs69ag" type="4001" source="_ooEMME7eEeSZwptAIs69ag" target="_lzOtEE7eEeSZwptAIs69ag">
     <children xmi:type="notation:DecorationNode" xmi:id="_1AwnM07eEeSZwptAIs69ag" type="6001">
-      <layoutConstraint xmi:type="notation:Location" xmi:id="_1AwnNE7eEeSZwptAIs69ag" x="-21" y="33"/>
+      <layoutConstraint xmi:type="notation:Location" xmi:id="_1AwnNE7eEeSZwptAIs69ag" x="-14" y="37"/>
     </children>
     <children xmi:type="notation:DecorationNode" xmi:id="_1AwnNU7eEeSZwptAIs69ag" type="6002">
       <layoutConstraint xmi:type="notation:Location" xmi:id="_1AxOQE7eEeSZwptAIs69ag" y="34"/>
